@@ -12,8 +12,8 @@ This Dockerfile can be used to build a Ubuntu 16.04(Xenial) container with basic
 * Net-Tools
 
 ## Prerequisites
--Git must be installed to clone this repository
--Docker must be installed to run this Dockerfile
+1. Git must be installed to clone this repository
+2. Docker must be installed to run this Dockerfile
 
 ## Usage
 1. Clone this repository using the Git command `git clone <repository-url>`
